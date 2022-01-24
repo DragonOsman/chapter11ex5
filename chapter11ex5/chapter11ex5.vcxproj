@@ -145,8 +145,8 @@
     <ClCompile Include="alias.ixx" />
     <ClCompile Include="chapter11ex5.cpp" />
     <ClCompile Include="internals.cpp" />
-    <ClCompile Include="sort.ixx" />
-    <ClCompile Include="utils.ixx" />
+    <ClCompile Include="words-sort.ixx" />
+    <ClCompile Include="words-utils.ixx" />
     <ClCompile Include="words.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

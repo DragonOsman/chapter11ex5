@@ -1,4 +1,4 @@
-import words;
+module words;
 
 import <iostream>;
 

@@ -21,10 +21,10 @@
     <ClCompile Include="internals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sort.ixx">
+    <ClCompile Include="words-sort.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="utils.ixx">
+    <ClCompile Include="words-utils.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="words.ixx">
