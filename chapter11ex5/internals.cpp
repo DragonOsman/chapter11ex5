@@ -1,4 +1,5 @@
-module words;
+module words:sort;
+import words;
 
 import <iostream>;
 
